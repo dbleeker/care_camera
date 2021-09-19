@@ -1,4 +1,4 @@
-# skeleton_app
+# care_camera
 
 A new Flutter project.
 
